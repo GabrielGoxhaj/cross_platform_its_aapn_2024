@@ -13,7 +13,7 @@ Sempre in home page c'è un pulsante che ci permette di visualizzare i nostri po
 Invece, cliccando su un pokemon, ne vediamo i dettagli in una pagina ad hoc:
     - id
     - nome
-    - un'immagine di base
+    - un'immagine di base: sprites -> front_default
     - altezza
     - peso
 
